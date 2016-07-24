@@ -1,0 +1,15 @@
+appName = "go-apm"
+httpPort = ":3000"
+pprofPort = ":16060"
+
+[db]
+dbFile = "/Users/didi/apm/apm.db"
+
+[dump]
+dumpFolder = "/Users/didi/apm/dump"
+
+[bin]
+binFolder = "/Users/didi/apm/bin"
+
+[git]
+codeFolder = "/Users/didi/apm/code"
